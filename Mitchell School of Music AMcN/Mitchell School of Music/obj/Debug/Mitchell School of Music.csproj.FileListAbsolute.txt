@@ -1,0 +1,87 @@
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\Mitchell School of Music.pdb
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.csprojResolveAssemblyReference.cache
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.Properties.Resources.resources
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.csproj.GenerateResource.Cache
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmLoadingScreen.resources
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\MitchellMusic.mdf
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\MitchellMusic_log.ldf
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmSignIn.resources
+E:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+E:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+E:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddStudent.resources
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmMenu.resources
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddUser.resources
+D:\SSD\Unit 2\Mitchell School of Music\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.ViewRecords.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic.mdf
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic_log.ldf
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.pdb
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csprojResolveAssemblyReference.cache
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddUser.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmLoadingScreen.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmMenu.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.Properties.Resources.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmSignIn.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddStudent.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.ViewRecords.resources
+D:\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic.mdf
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic_log.ldf
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.pdb
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddUser.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmLoadingScreen.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmMenu.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.Properties.Resources.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmSignIn.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.ViewRecords.resources
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SSD\Unit 2\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddForm.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddUser.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmLoadingScreen.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmMenu.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.Properties.Resources.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmSignIn.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddForm.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csproj.GenerateResource.Cache
+D:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic.mdf
+D:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic_log.ldf
+D:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe
+D:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.pdb
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\RdlCompile.cache
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\RdlCompile.compiled
+G:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe.config
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.exe
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.pdb
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddUser.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmLoadingScreen.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmMenu.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.Properties.Resources.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmSignIn.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.frmAddForm.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csproj.GenerateResource.Cache
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\RdlCompile.cache
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\RdlCompile.compiled
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.GUI.frmInstrumentsByStudentsReport.resources
+D:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csprojResolveAssemblyReference.cache
+G:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic.mdf
+G:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\MitchellMusic_log.ldf
+G:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.exe
+G:\Mitchell School of Music AMcN\Mitchell School of Music\bin\Debug\Mitchell School of Music.pdb
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell_School_of_Music.GUI.frmInstrumentsByStudentsReport.resources
+G:\Mitchell School of Music AMcN\Mitchell School of Music\obj\Debug\Mitchell School of Music.csprojResolveAssemblyReference.cache
